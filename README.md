@@ -12,7 +12,8 @@ AWS Cloud Basics internship (Skill Nexis), Week 1: account setup, IAM, EC2, and 
 ## Files
 - `Week 1 – AWS Basics.pdf` – answers to the 5 core practice questions
 - `Week1-Assignment.pdf` – full walkthrough with screenshots
-- `screenshots/` – supporting screenshots for each step
+- `Mini-IAM-S3-Project.pdf` – IAM & S3 hands-on mini project (public access test + lockdown)
+- `Screenshots/` – supporting screenshots for each step
 
 ## Key learning
 Practiced the principle of least privilege by giving IAM users only the permissions they need, 
