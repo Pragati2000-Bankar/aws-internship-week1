@@ -1,6 +1,6 @@
 # AWS Internship – Week 1
 
-AWS Cloud Basics internship (Skill Nexis), Week 1: account setup, IAM, EC2, and core AWS services.
+AWS Cloud Basics internship, Week 1: account setup, IAM, EC2, and core AWS services.
 
 ## What I did
 - Set up IAM users with different permission levels (read-only and scoped S3 access)
